@@ -14,3 +14,5 @@ third line from featureb
 this is from feature c. 
 second line from featurec
 third linee fc
+
+line from the hotfix
