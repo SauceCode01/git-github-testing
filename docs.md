@@ -12,3 +12,4 @@ second line from featureb
 third line from featureb
 
 this is from feature c. 
+second line from featurec
