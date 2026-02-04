@@ -10,3 +10,5 @@ fifth line from feature a
 this is from feature b.
 second line from featureb
 third line from featureb
+
+line from the hotfix
